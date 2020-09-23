@@ -1,7 +1,10 @@
 nav ul li{
     display:inline-block;
     margin-right: 30px;
+    /* display: flex;
+    justify-content: center; */
 }
+nav{text-align: center;}
 h1{
     display: flex;
     justify-content: center;
