@@ -9,3 +9,10 @@ h1{
     display: flex;
     justify-content: center;
 }
+#class{
+    float: right;
+    padding: 20px;
+}
+.container{
+    padding: 10px;
+}
