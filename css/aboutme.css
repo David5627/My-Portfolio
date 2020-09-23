@@ -1,3 +1,27 @@
 span{
     font-size: 30px;
 }
+h1{
+    text-align: center;
+    
+}
+.about{
+    text-align: center;
+    margin-left: 400px;
+    margin-right:400px ;
+}
+#list ol{
+    text-align: center;
+    list-style: none;
+}
+.kerry ul{
+    list-style: none;
+}
+#maiden{
+    background-color: cornsilk;
+}
+footer{
+    text-align: center;
+}
+
+
