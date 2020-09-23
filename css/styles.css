@@ -1,19 +1,20 @@
 nav ul li{
     display:inline-block;
     margin-right: 30px;
-    /* display: flex;
-    justify-content: center; */
+    display: flex;
+    justify-content: center
 }
 nav{
     text-align: center;
     color: white;
     background-color:black;
-    background-size: con;
-    margin-top: 30px;
+    background-size: cover;
+    padding: 20px;
 }
 h1{
     display: flex;
     justify-content: center;
+
 
     
 }
@@ -28,16 +29,13 @@ h1{
     background-color: rosybrown;
     background-repeat: no-repeat;
     background-size: cover;
+    text-align: left;
 }
-#star{
-    background-color: forestgreen;
-}
+
+
 span{
     font-size: 30px;
 }
-footer{
-    text-align: center;
-    background-color: cyan;
-}
+
 
 

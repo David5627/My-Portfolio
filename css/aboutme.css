@@ -3,6 +3,8 @@ span{
 }
 h1{
     text-align: center;
+    background-color: cyan;
+    padding: 20px;
     
 }
 .about{
@@ -23,6 +25,23 @@ h1{
 footer{
     text-align: center;
     background-color: cyan;
+}
+.we ul{
+    display:inline-block;
+    margin-right: 30px;
+    display: flex;
+    justify-content: space-around;
+
+}
+
+.we{text-align: center;
+    color: white;
+    background-color:black;
+    background-size: con;
+    padding: 10px;
+}
+#ze{
+    background-color: darkslategray;
 }
 
 
