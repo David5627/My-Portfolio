@@ -8,17 +8,30 @@ nav{
     text-align: center;
     color: white;
     background-color:black;
+    background-size: con;
     margin-top: 30px;
 }
 h1{
     display: flex;
     justify-content: center;
+
     
 }
 #class{
     float: right;
     padding: 20px;
+    display: flex;
+    justify-content: space-around;
 }
 .container{
-    padding: 10px;
+    padding: 20px;
+    background-color: rosybrown;
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+#star{
+    background-color: forestgreen;
+}
+span{
+    font-size: 20px;
 }
