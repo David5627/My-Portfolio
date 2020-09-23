@@ -1,15 +1,18 @@
 nav ul li{
     display:inline-block;
     margin-right: 30px;
-    display: flex;
-    justify-content: center
+    /* display: flex;
+    justify-content: center; */
 }
-nav{
+nav ul {
     text-align: center;
     color: white;
     background-color:black;
-    background-size: cover;
+    background-size: con;
     padding: 20px;
+    margin-top: 0;
+    margin-bottom: 0;
+
 }
 h1{
     display: flex;

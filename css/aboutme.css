@@ -5,6 +5,7 @@ h1{
     text-align: center;
     background-color: cyan;
     padding: 20px;
+    margin-bottom: 0px;
     
 }
 .about{
@@ -25,6 +26,8 @@ h1{
 footer{
     text-align: center;
     background-color: cyan;
+    padding: 20px;
+    margin-bottom: 0px;
 }
 .we ul{
     display:inline-block;
