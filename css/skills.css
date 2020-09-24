@@ -40,3 +40,6 @@ h1{
     background-size: con;
     padding: 10px;
 }
+.welcome ul li a{
+    text-decoration: none;
+}
