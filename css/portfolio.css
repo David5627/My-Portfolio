@@ -1,6 +1,9 @@
 h1{
     background-color: cyan;
     text-align: center;
+    margin-bottom: 0;
+    margin-top: 0;
+    
 }
 .lucy{
     background-color: cyan;
@@ -9,9 +12,32 @@ h1{
 #Eve{
     background-color: gold;
     text-align: center;
+    margin-bottom: 0px;
+    
+
 
 
 }
 #Eve ul{
     list-style-type: none;
+    
+}
+.DD ul{
+    display:inline-block;
+    margin-right: 30px;
+    display: flex;
+    justify-content: space-between;
+    margin-bottom: 0px;
+    margin-top: 0px;
+    
+    
+}
+.DD{
+    text-align: center;
+    color: white;
+    background-color:black;
+    background-size: con;
+    padding: 10px;
+    margin-top: 0;
+    margin-bottom: 0px;
 }
