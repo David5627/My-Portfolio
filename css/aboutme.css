@@ -37,6 +37,7 @@ footer{
     margin-right: 30px;
     display: flex;
     justify-content: space-around;
+    list-style: none;
     
 
 }
@@ -46,12 +47,14 @@ footer{
     background-color:black;
     background-size: con;
     padding: 10px;
+    
 }
 #ze{
     background-color: darkslategray;
 }
 .we ul li a{
     text-decoration: none;
+     
 }
 
 
