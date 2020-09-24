@@ -12,6 +12,7 @@ h1{
     text-align: center;
     margin-left: 400px;
     margin-right:400px ;
+    padding-bottom: 20px;
 }
 #list ol{
     text-align: center;
@@ -28,6 +29,7 @@ footer{
     background-color: cyan;
     padding: 20px;
     margin-bottom: 0px;
+    
 }
 .we ul{
     display:inline-block;
