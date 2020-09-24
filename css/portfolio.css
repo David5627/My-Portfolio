@@ -8,4 +8,10 @@ h1{
 }
 #Eve{
     background-color: gold;
+    text-align: center;
+
+
+}
+#Eve ul{
+    list-style-type: none;
 }
