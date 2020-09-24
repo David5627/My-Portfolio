@@ -3,7 +3,7 @@ span{
 }
 h1{
     text-align: center;
-    /* background-color: cyan; */
+    background-color: cyan;
     padding: 20px;
     margin-bottom: 0px;
     
@@ -27,7 +27,7 @@ h1{
 }
 footer{
     text-align: center;
-    /* background-color: cyan; */
+    background-color: cyan;
     padding: 20px;
     margin-bottom: 0px;
     
