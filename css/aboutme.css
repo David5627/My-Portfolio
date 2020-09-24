@@ -20,6 +20,7 @@ h1{
 }
 .kerry ul{
     list-style: none;
+    text-decoration: none;
 }
 #maiden{
     background-color: cornsilk;
@@ -36,6 +37,7 @@ footer{
     margin-right: 30px;
     display: flex;
     justify-content: space-around;
+    
 
 }
 
@@ -47,6 +49,9 @@ footer{
 }
 #ze{
     background-color: darkslategray;
+}
+.we ul li a{
+    text-decoration: none;
 }
 
 
