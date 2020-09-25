@@ -8,12 +8,12 @@ h1{
     margin-bottom: 0px;
     
 }
-.about{
-    text-align: center;
+about{
+    text-align: left; 
     margin-left: 400px;
     margin-right:0px ;
     padding-bottom: 20px;
-}
+} */
 #list ol{
     text-align: center;
     list-style: none;
@@ -61,3 +61,10 @@ h1{
 
 
 }
+#kill{
+    text-align:center ;
+    background-color: cyan;
+}
+#list[
+    
+]
