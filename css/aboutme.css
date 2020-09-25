@@ -11,7 +11,7 @@ h1{
 .about{
     text-align: center;
     margin-left: 400px;
-    margin-right:400px ;
+    margin-right:0px ;
     padding-bottom: 20px;
 }
 #list ol{
@@ -25,7 +25,7 @@ h1{
 #maiden{
     background-color: cornsilk;
 }
-footer{
+.hen{
     text-align: center;
     background-color: cyan;
     padding: 20px;

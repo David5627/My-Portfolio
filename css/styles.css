@@ -48,4 +48,8 @@ nav ul li a:hover{
 nav ul li a{
     text-decoration: none;
 }
+.ses{
+    text-align: center;
+    padding: 10px;
+}
 
