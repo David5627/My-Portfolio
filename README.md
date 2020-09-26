@@ -14,6 +14,6 @@ A Web page that shows more about me and also my life style.
 * `https://github.com/David5627/MINDSET
 * `https://github.com/David5627/my-portfolio
 
-##LICENCE
+## LICENCE
 * Davidkilonzo@2020
 
