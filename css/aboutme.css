@@ -51,6 +51,7 @@ about{
 }
 #ze{
     background-color: darkslategray;
+ padding-bottom: 40px;
 }
 .we ul li a{
     text-decoration: none;
@@ -64,7 +65,17 @@ about{
 #kill{
     text-align:center ;
     background-color: cyan;
+    padding: 20px;
 }
 img{
     float: right;
+}
+.tpain{
+    margin:0;
+    padding: 0;
+    background-color: darkslategray;
+}
+.tpain .about{
+    margin:0;
+    background-color: darkslategray;
 }
