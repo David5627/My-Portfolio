@@ -9,13 +9,13 @@ h1{
     
 }
 .about{
-    text-align: center;
-    margin-left: 400px;
-    margin-right:400px ;
-    padding-bottom: 20px;
+    text-align: left;
+
+
+
 }
 #list ol{
-    text-align: center;
+    text-align: left;
     list-style: none;
 }
 .kerry ul{
@@ -28,8 +28,10 @@ h1{
 footer{
     text-align: center;
     background-color: cyan;
-    padding: 20px;
+    padding: 2px;
     margin-bottom: 0px;
+    margin-bottom: 0px;
+    margin-top: 0px;
     
 }
 .we ul{
@@ -42,7 +44,7 @@ footer{
 
 }
 
-.we{text-align: center;
+.we{text-align: cent;
     color: white;
     background-color:lightcoral;
     background-size: con;
@@ -51,6 +53,7 @@ footer{
 }
 #ze{
     background-color: darkslategray;
+    padding: 20px;
 }
 .we ul li a{
     text-decoration: none;
@@ -60,4 +63,10 @@ footer{
     background-color: #fff;
 
 
+}
+/* .origin{
+    text-align:right;
+} */
+.about img{
+    float: right;
 }
