@@ -49,3 +49,7 @@ h1{
 .welcome ul li a:hover{
     background-color: #fff;
 }
+#me li{
+    text-align: center;
+    list-style-type: none;
+}
