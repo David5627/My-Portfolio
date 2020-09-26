@@ -1,7 +1,7 @@
 # MY-PORTFOLIO
 ## DAVID KILONZO
 A Web page that shows more about me and also my life style.
-[!portfolio] (`https://github.com/David5627/my-portfolio)
+[!portfolio](`https://github.com/David5627/my-portfolio)
 ### Technologies used
 * HTML
 * CSS
