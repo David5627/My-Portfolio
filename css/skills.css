@@ -1,6 +1,10 @@
 footer{
     text-align: center;
     background-color: cyan;
+    margin-top: 0px;
+    margin-bottom: 20px;
+    padding: 10px;
+
  }
  #me ul{
      text-align: center;
